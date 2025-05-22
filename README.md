@@ -27,17 +27,6 @@ Clicking **Quick View** opens a centered modal with a simple image carousel.
 
 ---
 
-## 📂 File Overview
-
-- **quick-view-carousel.js**  
-- Injects the Quick View button  
-- Builds & shows the modal + carousel  
-- Handles open/close events  
-- **quick-view-carousel.css**  
-- Styles the button, overlay, modal, carousel & nav arrows  
-
----
-
 ## 🚀 Testing
 
 1. Follow the installation steps above.
@@ -58,5 +47,4 @@ Clicking **Quick View** opens a centered modal with a simple image carousel.
 
 ## 📄 License
 
-This snippet is released under the MIT License.  
-
+This snippet is released under the MIT License.
